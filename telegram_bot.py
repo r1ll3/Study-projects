@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 from aiogram.client.default import DefaultBotProperties
 
-TOKEN = "8984452007:AAGrtN9lbu95fryh8pmwcKkEnXcelOucWss" # прием токена
+TOKEN = "токен" # прием токена
 bot = Bot(
 	token=TOKEN,
 	default=DefaultBotProperties(),
